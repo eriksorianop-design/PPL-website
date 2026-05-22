@@ -1,4 +1,4 @@
-header, footer {
+header, footer, html {
   background: linear-gradient(300deg, #FF5A1F, #1A1D24, #9CA3AF);
   background-size: 180% 180%;
   animation: gradient-animation 18s ease infinite;
